@@ -29,6 +29,8 @@ To get started, let's install a few dependencies and sort out some imports:
 
 """shell
 pip install --upgrade keras-cv
+pip install matplotlib
+pip install tensorflow_datasets
 """
 
 import time
